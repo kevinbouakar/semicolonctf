@@ -1,0 +1,10 @@
+U2VtaWNvbG9uQ1RGMjV4VG90ZXJz
+77b7e24bb3642a4b9d3081d393785273
+7dddbfabef0e23edd753c1006c1cbf3f99380a57fa
+e94fd5250dcca0a3b0cea1651f0a821b
+
+We have reason to believe: 
+Line 1 is a clue in disguise. 
+Line 2 is raw hex data. 
+Line 3 is the output of a transformation involving line 2. 
+Line 4... well, nobody knows. But it might unlock something vital.
